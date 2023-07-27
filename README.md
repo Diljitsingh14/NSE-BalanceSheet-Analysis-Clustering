@@ -1,3 +1,6 @@
+# Note:
+Use req.txt from js1 branch to setup your venv.
+
 # NSE-BalanceSheet-Analysis-Clustering
 Topic : Balance Sheet analysing for Non-Banking/Financial sector sectors
 
